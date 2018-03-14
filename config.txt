@@ -1,0 +1,3 @@
+appid:9999999
+email:sample@mail.ru
+password:######
